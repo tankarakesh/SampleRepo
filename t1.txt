@@ -1,1 +1,2 @@
 This is the sample text.
+This is the next line in the same file.
